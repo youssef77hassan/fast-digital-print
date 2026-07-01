@@ -1,0 +1,6 @@
+{
+  "name": "Fast Digital Print",
+  "description": "A premium creative commercial website for professional printing and branding services, optimized for luxury feeling and seamless WhatsApp inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
